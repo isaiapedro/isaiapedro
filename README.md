@@ -1,7 +1,7 @@
 - 👋 hi, i’m @isaiapedro, computer engineering student at UFScar, Brazil.
-- 👀 I’m interested in finance and machine learning.
-- 🔭 I’m currently working on signal processing of commodities stocks time series.
-- 🌱 I’m currently learning signal processing, financial managment and recurrent neural networks.
+- 👀 I’m interested in finance and data science.
+- 🔭 I’m currently working on supervised models and explainable ai.
+- 🌱 I’m currently learning game development, machine learning and web development.
 - 😄 Pronouns: he/his
 - 📫 reach me at isaiacontato@gmail.com
 
