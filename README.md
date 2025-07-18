@@ -8,7 +8,7 @@
 
 💻 You can visit my [portfolio](https://github.com/isaiapedro/Portfolio-Website) to get an overview of my recent projects and topics that I am studying.
 
-💬 Also, feel free to reach me out via my [LinkedIn profile](https://www.linkedin.com/in/isaiapedro/)
+💬 Also, feel free to reach me out via my [LinkedIn profile](https://www.linkedin.com/in/isaiapedro/).
 
 Thanks!
 
