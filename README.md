@@ -6,7 +6,7 @@
 
 📚 I’m currently working on Time Series Predictions, Web Applications and Data Architectures. Besides that, I am learning about DevOps, APIs, Containers and Statistics. 
 
-💻 You can visit my [portfolio](https://github.com/isaiapedro/Portfolio-Website) to get an overview of my recent projects and topics that I am studying.
+💻 You can visit my [portfolio](https://isaiapedro.github.io/) to get an overview of my recent projects and topics that I am studying.
 
 💬 Also, feel free to reach me out via my [LinkedIn profile](https://www.linkedin.com/in/isaiapedro/).
 
