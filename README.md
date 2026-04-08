@@ -4,7 +4,7 @@
 
 🫰 I’m **Pedro**, BE of Computer Engineering at UFScar, Brazil. I’m interested in Machine Learning and Software Engineering.
 
-📚 I’m currently working on Time Series Predictions, Web Applications and Data Architectures. Besides that, I am learning about DevOps, APIs, Containers and Statistics. 
+📚 I’m currently working on Streaming Big Data, Airflow Automation and Cloud Architectures. Besides that, I am learning about Front-End Development, LLM Agents and Statistics. 
 
 💻 You can visit my [portfolio](https://isaiapedro.github.io/) to get an overview of my recent projects and topics that I am studying.
 
